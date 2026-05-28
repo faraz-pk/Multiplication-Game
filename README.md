@@ -29,7 +29,7 @@ This game helps users improve their multiplication skills through simple and eng
 Add your deployed link here:
 
 ```txt id="jttw7p"
-https://your-live-demo-link.com
+https://multiplyx.com
 ```
 
 ---
